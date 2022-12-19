@@ -7,3 +7,5 @@ Follow the progress at my patreon
 https://www.patreon.com/RightRudderLeftStick
 
 ![Screenshot](HeaderImage.PNG)
+
+[This project is licensed as CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
