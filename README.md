@@ -8,5 +8,5 @@ https://www.patreon.com/RightRudderLeftStick
 
 ![Screenshot](HeaderImage.PNG)
 
-[Screenshot](by-sa.PNG)
+![Screenshot](by-sa.PNG)
 [This project is licensed as CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
