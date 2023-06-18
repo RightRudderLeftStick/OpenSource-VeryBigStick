@@ -1,15 +1,22 @@
-# OPEN SOURCE VERY BIG STICK PROJECT 2022
+# OPEN SOURCE VERY BIG STICK PROJECT 2023
 A very large joystick gimbal for very big sticks!
 
-This project is going to be relaunched, so these step/f3d files will stay up for archival purposes, but expect an entirely new approach in 2023 when I have a clean sheet redesign ready.
+The current version is Beta 1.1
+Check out this build guide below to learn how to construct this 
 
-[![Watch the video](thumbnail.png)]([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/BTveuf3TC68))
+[![Watch the video](thumbnail.png)](https://www.youtube.com/watch?v=H9XChODXeRQ)
 
-
-Follow the progress at my patreon
+Follow the progress at my patreon. Subscribers recieve early indevelopment F3D project files and other exclusive updates
 https://www.patreon.com/RightRudderLeftStick
 
+Checkout the PDF to see the bill of materials and the print orientation guide
+
 ![Screenshot](HeaderImage.PNG)
+
+The grip on this stick is another 3D printed project from TheSimNet, check out his youtube channel here:
+https://youtu.be/-zjJm-5tHko
+
+![Screenshot](Render_Beta1.PNG)
 
 ---
 
