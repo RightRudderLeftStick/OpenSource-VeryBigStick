@@ -16,7 +16,7 @@ Checkout the PDF to see the bill of materials and the print orientation guide
 The grip on this stick is another 3D printed project from TheSimNet, check out his youtube channel here:
 https://youtu.be/-zjJm-5tHko
 
-![Screenshot](Render_Beta1.PNG)
+![Screenshot](Render_Beta1.png)
 
 ---
 
