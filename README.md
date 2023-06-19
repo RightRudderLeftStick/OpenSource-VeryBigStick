@@ -4,7 +4,7 @@ A very large joystick gimbal for very big sticks!
 The current version is Beta 1.1
 Check out this build guide below to learn how to construct this 
 
-[![Watch the video](thumbnail.png)](https://www.youtube.com/watch?v=H9XChODXeRQ)
+[![Watch the video](thumbnail.png)](https://www.youtube.com/watch?v=IdYbF5dOYag)
 
 Follow the progress at my patreon. Subscribers recieve early indevelopment F3D project files and other exclusive updates
 https://www.patreon.com/RightRudderLeftStick
