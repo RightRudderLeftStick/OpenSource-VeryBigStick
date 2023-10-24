@@ -1,7 +1,7 @@
 # OPEN SOURCE VERY BIG STICK PROJECT 2023
 A very large joystick gimbal for very big sticks!
 
-The current version is Beta 1.1
+The current version is Beta 1.2
 Check out this build guide below to learn how to construct this 
 
 [![Watch the video](thumbnail.png)](https://www.youtube.com/watch?v=IdYbF5dOYag)
@@ -17,6 +17,11 @@ The grip on this stick is another 3D printed project from TheSimNet, check out h
 https://youtu.be/-zjJm-5tHko
 
 ![Screenshot](Render_Beta1.png)
+
+Changelog
+
+1.2
+- Revised the TM adapter piece to have the clearance for the X shape at the bottom of the TM grip connector
 
 ---
 
