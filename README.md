@@ -32,7 +32,7 @@ Follow the progress at my patreon. Subscribers recieve early indevelopment F3D p
 You can also order the breakout PCB directly from PCBWAY, as well as the CAMs to print in Glass fibre Nylon for extra durability and quality than what can be done on most home printers.
 
 ### ORDER LINKS FOR PCBWAY
-[PCB boards from](https://www.pcbway.com/rapid-prototyping/manufacture/)
+[PCB boards](https://www.pcbway.com/rapid-prototyping/manufacture/)
 
 ![Screenshot](PCBBoards.png)
 
@@ -47,18 +47,19 @@ You can also order the breakout PCB directly from PCBWAY, as well as the CAMs to
 
 [Hard Cam](https://www.pcbway.com/rapid-prototyping/manufacture/)
 
+## Partner Projects.
 
+Please Checkout TheSimNet's Youtube Channel. He releases designs of fully 3D printable flight grips with TM compatbility. All the renders of the OS-VBS-MK2 use his Free B-8 Grip models for reference. He also sells really cool projects like a very accurate F-15C grip. 
 
+[![Check out this channel](TheSimNetBanner.png)](https://youtu.be/-zjJm-5tHko)
 
 ![Screenshot](HeaderImage.PNG)
 
-The grip on this stick is another 3D printed project from TheSimNet, check out his youtube channel here:
-https://youtu.be/-zjJm-5tHko
 
+## Changelog
 
-### Changelog
+### 1.3
 
-1.3
 - Updated with electrical gerber files for the breakout board
 - New TM adapter piece that has an offset for use with common chairs
 - Revisions to several pieces, including a new "PitchFrame_TopPlate" that includes extra M5 holes for the future cyclic piston damper upgrade and cut outs to make it easier to fit a socket wrench into the gimbal to change cams
@@ -67,10 +68,12 @@ https://youtu.be/-zjJm-5tHko
 - Adjusted the PitchFrame_PillowBlock.3mf to have wider holes for feeding the wires through.
 - Redesigned the CAMs to not require the Cam_Bearing_washer.3mf and to nicely friction fit the 608 bearings with compliance holes.
 
-
-
-1.2
+### 1.2
 - Revised the TM adapter piece to have the clearance for the X shape at the bottom of the TM grip connector
+
+###
+
+- Fix to the TM adapter to add a second set of holes.
 
 ---
 
