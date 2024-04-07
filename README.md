@@ -7,6 +7,8 @@ This totally open source gimbal is designed for end users to either connect exis
 
 It is recommended all parts are printed in PETG, while PLA+ may be acceptable for all parts other than the CAMS, which can be ordered from 3D printed providers in very durable materials.
 
+Checkout the PDF file in the repo to see the bill of materials and the print orientation guide. 
+
 ## The current version is Beta 1.3
 
 Check out this build guide below to learn how to assemb the base gimbal!
@@ -18,10 +20,10 @@ This video shows on to connect the electrical wiring.
 [![Watch the video](thumbnail.png)](https://www.youtube.com/watch?v=IdYbF5dOYag)
 
 ## Patreon
-Follow the progress at my patreon. Subscribers recieve early indevelopment F3D project files and other exclusive updates
-https://www.patreon.com/RightRudderLeftStick
+Follow the progress at my patreon. Subscribers recieve early indevelopment F3D project files and other exclusive updates:
 
-Checkout the PDF to see the bill of materials and the print orientation guide. 
+[![Link to patreon(PatreonLogo.png)](https://www.patreon.com/RightRudderLeftStick)
+
 
 ## PCBWAY
 
