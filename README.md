@@ -22,7 +22,7 @@ This video shows on to connect the electrical wiring.
 ## Patreon
 Follow the progress at my patreon. Subscribers recieve early indevelopment F3D project files and other exclusive updates:
 
-[![Link to patreon(PatreonLogo.png)](https://www.patreon.com/RightRudderLeftStick)
+[![Link to patreon](PatreonLogo.png)(https://www.patreon.com/RightRudderLeftStick)
 
 
 ## PCBWAY
