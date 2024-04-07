@@ -57,14 +57,11 @@ Please Checkout TheSimNet's Youtube Channel. He releases designs of fully 3D pri
 
 ### Freejoy
 
-Freejoy is an excellent open source alternative to MMjoy2 and is great for creating for really low cost and powerful USB game controller devices.... if you can still find geninue STM32 chips.
+Freejoy is an excellent open source alternative to MMjoy2 and is great for creating for really low cost and powerful USB game controller devices.... if you can still find geninue STM32 
 
 Link to freejoy [github.](https://github.com/FreeJoy-Team/FreeJoy)
 
-![Screenshot](HeaderImage.PNG)
-
-
-## Changelog
+# Changelog
 
 ### 1.3
 
@@ -86,6 +83,8 @@ Link to freejoy [github.](https://github.com/FreeJoy-Team/FreeJoy)
 ### 1.0
 
 - Intial release of the mechanical parts of the gimbal, as seen in the mechanical guide video.
+
+![Screenshot](HeaderImage.PNG)
 
 ---
 
