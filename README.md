@@ -34,10 +34,15 @@ You can also order the breakout PCB directly from PCBWAY, as well as the CAMs to
 ### ORDER LINKS FOR PCBWAY
 [PCB boards from](https://www.pcbway.com/rapid-prototyping/manufacture/)
 
-CAMS (4 are required for a complete set. Order in Glass Fibre Nylon)
+**CAMS** 
+(4 are required for a complete set. Order in Glass Fibre Nylon)
+
 [Soft Cam](https://www.pcbway.com/rapid-prototyping/manufacture/)
-[Medium Cam}(https://www.pcbway.com/rapid-prototyping/manufacture/)
-[Hard Cam] (https://www.pcbway.com/rapid-prototyping/manufacture/)
+
+[Medium Cam](https://www.pcbway.com/rapid-prototyping/manufacture/)
+
+[Hard Cam](https://www.pcbway.com/rapid-prototyping/manufacture/)
+
 
 
 
