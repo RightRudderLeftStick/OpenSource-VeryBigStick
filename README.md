@@ -1,7 +1,7 @@
 # OPEN SOURCE VERY BIG STICK PROJECT 2024
 A very large joystick gimbal for very big sticks!
 
-![Screenshot](HOSVBS_timelapse.gif)
+![Screenshot](OSVBS_timelapse.gif)
 
 ## The current version is Beta 1.3
 
