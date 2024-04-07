@@ -51,7 +51,7 @@ You can also order the breakout PCB directly from PCBWAY, as well as the CAMs to
 
 Please Checkout TheSimNet's Youtube Channel. He releases designs of fully 3D printable flight grips with TM compatbility. All the renders of the OS-VBS-MK2 use his Free B-8 Grip models for reference. He also sells really cool projects like a very accurate F-15C grip. 
 
-[![Check out this channel](TheSimNetBanner.png)](https://youtu.be/-zjJm-5tHko)
+[![Check out this channel](TheSimNetBanner.PNG)](https://youtu.be/-zjJm-5tHko)
 
 ![Screenshot](HeaderImage.PNG)
 
@@ -71,9 +71,13 @@ Please Checkout TheSimNet's Youtube Channel. He releases designs of fully 3D pri
 ### 1.2
 - Revised the TM adapter piece to have the clearance for the X shape at the bottom of the TM grip connector
 
-###
+### 1.1
 
 - Fix to the TM adapter to add a second set of holes.
+
+### 1.0
+
+- Intial release of the mechanical parts of the gimbal, as seen in the mechanical guide video.
 
 ---
 
