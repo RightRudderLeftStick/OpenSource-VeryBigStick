@@ -22,4 +22,4 @@ Using the freejoy version requires a **geniue** STM32F103C8 microcontroller boar
 
 Freejoy version is still to come, and there will be a specialized firmware outside of what they currently distribute on the github to support the longer cable lengths required to connect the shift register.
 
-Link to freejoy [github.](https://github.com/FreeJoy-Team/FreeJoy)
+Link to Freejoy [github.](https://github.com/FreeJoy-Team/FreeJoy)
