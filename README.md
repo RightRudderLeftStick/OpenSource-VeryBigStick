@@ -17,7 +17,7 @@ Check out this build guide below to learn how to assemble the base gimbal!
 
 This video shows on to connect the electrical wiring and assemble the office chair mount.
 
-[![Watch the video](thumbnail2.png)](https://www.youtube.com/watch?v=IdYbF5dOYag)
+[![Watch the video](thumbnail2.png)](https://youtu.be/jo0v6YuI9vU)
 
 ## Patreon
 Follow the progress at my patreon. Subscribers recieve early indevelopment F3D project files and other exclusive updates:
