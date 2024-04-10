@@ -27,7 +27,7 @@ Follow the progress at my patreon. Subscribers recieve early indevelopment F3D p
 
 ## PCBWAY
 
-[![Screenshot](PCBWAY.png)](https://www.pcbway.com/)
+[![Screenshot](PCBWAY.png)](https://pcbway.com/g/jks8J3)
 
 You can also order the breakout PCB directly from PCBWAY, as well as the CAMs to print in Glass fibre Nylon for extra durability and higher quality than what can be done on most home printers.
 
