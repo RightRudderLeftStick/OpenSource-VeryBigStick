@@ -65,6 +65,10 @@ Link to Freejoy [github.](https://github.com/FreeJoy-Team/FreeJoy)
 
 # Changelog
 
+### 1.3.1
+
+- Fixed the quantity in the build guide for "2020_Crossbar.3mf" from 1 to 2.
+
 ### 1.3
 
 - Updated with electrical gerber files for the breakout board
