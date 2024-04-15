@@ -2,6 +2,8 @@
 
 ## Breakout Board
 
+**NOTE THE TM MINI DIN LAYOUT IS WRONG!!! I USED THE WRONG FOOTPRINT AGAIN SO IF YOU SOLDER THE MINI DIN DIRECTLY TO IT, IT WILL BE INCORRECT. LABELS ON THE BACK ARE OKAY IF YOU SOLDER NORMALLY!**
+
 The breakout board is designed to socket either a STM32F103C8 microcontroller board (freejoy) or an Arduino Pro Micro (MMJOY2 or custom code). You can use the gerber file to order the PCB from your local assembler, or order directly from PCBWAY [here](https://www.pcbway.com/project/shareproject/Open_Source_Very_Large_Stick_Freejoy_MMjoy2_breakout_board_f66f472f.html).
 
 ![Screenshot](PCBBreakout.PNG)
