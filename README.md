@@ -69,6 +69,12 @@ Link to Freejoy [github.](https://github.com/FreeJoy-Team/FreeJoy)
 
 # Changelog
 
+### 1.3.2
+
+- Fixed an error in the breakout board where the TM mini DIN had the wrong pin orientation. 
+- Fixed mislabelling on the USB breakout pins.
+- Added 13 extra button IO pins to the breakout board. Now using freejoy a B-8 style grip can have all the buttons wired directly without using a shift register.
+
 ### 1.3.1
 
 - Fixed the quantity in the build guide for "2020_Crossbar.3mf" from 1 to 2.
