@@ -4,6 +4,8 @@
 
 The breakout board is designed to socket either a STM32F103C8 microcontroller board (freejoy) or an Arduino Pro Micro (MMJOY2 or custom code). You can use the gerber file to order the PCB from your local assembler, or order directly from PCBWAY [here](https://www.pcbway.com/project/shareproject/Open_Source_Very_Large_Stick_Freejoy_MMjoy2_breakout_board_f66f472f.html).
 
+Current Revision is 1.4
+
 ![Screenshot](PCBBreakout.PNG)
 
 ## MMJOY2 version
