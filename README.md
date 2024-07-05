@@ -69,6 +69,9 @@ Link to Freejoy [github.](https://github.com/FreeJoy-Team/FreeJoy)
 
 # Changelog
 
+### 1.3.5
+- Added the OuterCamCover_FreejoyUSB.3mf which has a port for the USB-B port when using freejoy to stick out. a regular USB cable connected directly to the bluepill or ardiuno can also go through this hole with a strain relief plate attached with M3 screws
+
 ### 1.3.4
 - Added the sideplate.3mf. These just snap over the sides of the gimbal that are open to cover them.
 - Added the authentikit Spade grip adapter, see community add-ons directory.
