@@ -69,6 +69,10 @@ Link to Freejoy [github.](https://github.com/FreeJoy-Team/FreeJoy)
 
 # Changelog
 
+### 1.3.3
+- Added the bushplane grip as an optional single button handle for the gimbal. included in the BushPlane_Grip directory.
+- Added a new restrictor plate called "CYC_Split_RestrictorPlate_20degrees.3mf" that replaces the original 3mf of the restrictor plate. It comes in two parts and allows itself to be removed or replaced without diassembling the stick column
+
 ### 1.3.2
 
 - Fixed an error in the breakout board where the TM mini DIN had the wrong pin orientation. 
