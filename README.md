@@ -9,7 +9,7 @@ It is recommended all parts are printed in PETG, while PLA+ may be acceptable fo
 
 Checkout the PDF file in the repo to see the bill of materials and the print orientation guide. 
 
-## The current version is Beta 1.3.3
+## The current version is Beta 1.3.4
 
 For printing CAMs, it is recommended for "jet" style flying with a full length extension (office chair height) to use "HARD_CAMS" and for medium length (seated low in a sim pit) to use "MED_CAMS". The use of "SOFT_CAMS" is only recommended for warbirds (WWII prop aircraft) or helicopters.
 
@@ -68,6 +68,10 @@ Freejoy is an excellent open source alternative to MMjoy2 and is great for creat
 Link to Freejoy [github.](https://github.com/FreeJoy-Team/FreeJoy)
 
 # Changelog
+
+### 1.3.4
+- Added the sideplate.3mf. These just snap over the sides of the gimbal that are open to cover them.
+- Added the authentikit Spade grip adapter.
 
 ### 1.3.3
 - Added the bushplane grip as an optional single button handle for the gimbal. included in the BushPlane_Grip directory.
