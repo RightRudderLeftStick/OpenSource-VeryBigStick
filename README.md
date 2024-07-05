@@ -71,7 +71,8 @@ Link to Freejoy [github.](https://github.com/FreeJoy-Team/FreeJoy)
 
 ### 1.3.4
 - Added the sideplate.3mf. These just snap over the sides of the gimbal that are open to cover them.
-- Added the authentikit Spade grip adapter.
+- Added the authentikit Spade grip adapter, see community add-ons directory.
+- Modified the wheel chocks and crossbar pieces to have 1.5mm of height from the floor. This raises the aluminum extrusions so the edges don't scratch hardwood floors. This also will be for heigh compatiblity with the rudder pedals which will also have the 1.5mm of space.
 
 ### 1.3.3
 - Added the bushplane grip as an optional single button handle for the gimbal. included in the BushPlane_Grip directory.
