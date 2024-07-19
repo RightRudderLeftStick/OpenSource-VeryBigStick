@@ -69,6 +69,10 @@ Link to Freejoy [github.](https://github.com/FreeJoy-Team/FreeJoy)
 
 # Changelog
 
+### 1.3.2a
+
+- Fixed a net error in the PCBbreakout board (now revision 1.5) which required reordering the IO buttons on the breakout.
+
 ### 1.3.2
 
 - Fixed an error in the breakout board where the TM mini DIN had the wrong pin orientation. 
