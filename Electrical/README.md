@@ -22,6 +22,8 @@ For best reliabilty and compatibility with the included .mmjoy2 file. Use MMJOY2
 
 Using the freejoy version requires a **genuine** STM32F103C8 microcontroller board. Counterfeit STM32 chips cause all sorts of unpredictable problems with the Freejoy firmware. Try and order your STM32F103C8 from a trusted retailer with a proper return policy. 
 
-Freejoy version is still to come, and there will be a specialized firmware outside of what they currently distribute on the github to support the longer cable lengths required to connect the shift register. The breakout board revision 1.3 already supports all the required IO for freejoy.
+Freejoy version requires a specialized firmware on top of v1.7.1_1b3 that is publically avaliable. Due to the length of the stick and wiring the timing of the CD4021 shift registers causes ghosting of inputs. This specialized firmware adjusts this. It is in the /Firmware/ directory.
+
+In the /config/ directory there is also the w.i.p config file. It doesn't yet support the new IO pins of the 1.4 board revision.
 
 Link to Freejoy [github.](https://github.com/FreeJoy-Team/FreeJoy)
