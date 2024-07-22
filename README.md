@@ -73,18 +73,6 @@ Link to Freejoy [github.](https://github.com/FreeJoy-Team/FreeJoy)
 
 - Fixed a net error in the PCBbreakout board (now revision 1.5) which required reordering the IO buttons on the breakout.
 
-### 1.3.5
-- Added the OuterCamCover_FreejoyUSB.3mf which has a port for the USB-B port when using freejoy to stick out. a regular USB cable connected directly to the bluepill or ardiuno can also go through this hole with a strain relief plate attached with M3 screws
-
-### 1.3.4
-- Added the sideplate.3mf. These just snap over the sides of the gimbal that are open to cover them.
-- Added the authentikit Spade grip adapter, see community add-ons directory.
-- Modified the wheel chocks and crossbar pieces to have 1.5mm of height from the floor. This raises the aluminum extrusions so the edges don't scratch hardwood floors. This also will be for heigh compatiblity with the rudder pedals which will also have the 1.5mm of space.
-
-### 1.3.3
-- Added the bushplane grip as an optional single button handle for the gimbal. included in the BushPlane_Grip directory.
-- Added a new restrictor plate called "CYC_Split_RestrictorPlate_20degrees.3mf" that replaces the original 3mf of the restrictor plate. It comes in two parts and allows itself to be removed or replaced without diassembling the stick column
-
 ### 1.3.2
 
 - Fixed an error in the breakout board where the TM mini DIN had the wrong pin orientation. 
