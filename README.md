@@ -9,7 +9,7 @@ It is recommended all parts are printed in PETG, while PLA+ may be acceptable fo
 
 Checkout the PDF file in the repo to see the bill of materials and the print orientation guide. 
 
-## The current version is Beta 1.3.4
+## The current version is Beta 1.3
 
 For printing CAMs, it is recommended for "jet" style flying with a full length extension (office chair height) to use "HARD_CAMS" and for medium length (seated low in a sim pit) to use "MED_CAMS". The use of "SOFT_CAMS" is only recommended for warbirds (WWII prop aircraft) or helicopters.
 
