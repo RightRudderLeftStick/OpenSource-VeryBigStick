@@ -9,7 +9,7 @@ It is recommended all parts are printed in PETG, while PLA+ may be acceptable fo
 
 Checkout the PDF file in the repo to see the bill of materials and the print orientation guide. 
 
-## The current version is Beta 1.3
+## The current version is Beta 1.3.4
 
 For printing CAMs, it is recommended for "jet" style flying with a full length extension (office chair height) to use "HARD_CAMS" and for medium length (seated low in a sim pit) to use "MED_CAMS". The use of "SOFT_CAMS" is only recommended for warbirds (WWII prop aircraft) or helicopters.
 
@@ -68,6 +68,18 @@ Freejoy is an excellent open source alternative to MMjoy2 and is great for creat
 Link to Freejoy [github.](https://github.com/FreeJoy-Team/FreeJoy)
 
 # Changelog
+
+### 1.3.5
+- Added the OuterCamCover_FreejoyUSB.3mf which has a port for the USB-B port when using freejoy to stick out. a regular USB cable connected directly to the bluepill or ardiuno can also go through this hole with a strain relief plate attached with M3 screws
+
+### 1.3.4
+- Added the sideplate.3mf. These just snap over the sides of the gimbal that are open to cover them.
+- Added the authentikit Spade grip adapter, see community add-ons directory.
+- Modified the wheel chocks and crossbar pieces to have 1.5mm of height from the floor. This raises the aluminum extrusions so the edges don't scratch hardwood floors. This also will be for heigh compatiblity with the rudder pedals which will also have the 1.5mm of space.
+
+### 1.3.3
+- Added the bushplane grip as an optional single button handle for the gimbal. included in the BushPlane_Grip directory.
+- Added a new restrictor plate called "CYC_Split_RestrictorPlate_20degrees.3mf" that replaces the original 3mf of the restrictor plate. It comes in two parts and allows itself to be removed or replaced without diassembling the stick column
 
 ### 1.3.2a
 
