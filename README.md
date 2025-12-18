@@ -1,4 +1,4 @@
-# OPEN SOURCE VERY BIG STICK PROJECT 2024
+# OPEN SOURCE VERY BIG STICK PROJECT 2025
 A very large joystick gimbal for very big sticks!
 
 ![Screenshot](images/OSVBS_timelapse.gif)
@@ -9,7 +9,7 @@ It is recommended all parts are printed in PETG, while PLA+ may be acceptable fo
 
 Checkout the PDF file in the repo to see the bill of materials and the print orientation guide. 
 
-## The current version is Beta 1.3.4
+## The current version is Beta 1.3.6
 
 For printing CAMs, it is recommended for "jet" style flying with a full length extension (office chair height) to use "HARD_CAMS" and for medium length (seated low in a sim pit) to use "MED_CAMS". The use of "SOFT_CAMS" is only recommended for warbirds (WWII prop aircraft) or helicopters.
 
@@ -68,6 +68,9 @@ Freejoy is an excellent open source alternative to MMjoy2 and is great for creat
 Link to Freejoy [github.](https://github.com/FreeJoy-Team/FreeJoy)
 
 # Changelog
+
+### 1.3.6
+- Added a TPU_Boot.3mf which is a printable TPU cover to go over the top of the gimbal to keep dust and debris out of the mechanism. Print slowly as there are 60 degree overhangs in the design.
 
 ### 1.3.5
 - Added the OuterCamCover_FreejoyUSB.3mf which has a port for the USB-B port when using freejoy to stick out. a regular USB cable connected directly to the bluepill or ardiuno can also go through this hole with a strain relief plate attached with M3 screws
