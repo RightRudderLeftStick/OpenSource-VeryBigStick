@@ -75,6 +75,7 @@ Link to Freejoy [github.](https://github.com/FreeJoy-Team/FreeJoy)
 - *RollFrame_PitchPin_Gear.stl* now prints standing up for better support of the magnet slot.
 - *PitchFrame_TopPlate.stl* has been revised with the latest patreon info and version code.
 - Note the Analog pins on the AS5600 sensor should always be aligned to face the N on the magnet slot. This centers the 245 and 290 degree range thats burn with the script.
+- *OuterCamCover_Solid.stl* updated with CLOS tier patreon backer credits.
 
 ### 1.3.8
 - Added STM32 script for burning AS5600 sensor.
