@@ -1,0 +1,89 @@
+#include <Wire.h>
+//Purpose of this script is to use on an STM32 Bluepill to force burn the range of a white AS5600 sensor to just 50 degrees, from its 245 to 295 range of motion.
+//Hook up to the bluepill the following wires to the white AS5600 breakoutboard
+//BLUEPILL - AS5600 PCB
+//3.3V -> VCC
+//GND -> GND
+//B6 (PB6 i2c clock) -> SCL
+//B7 (PB7 i2c Data) -> SDA
+//A1 (PA1) KEEP FLOATING. YOU WILL GROUND IT AGAINST THE BLUEPILL GND TO BURN
+
+const int AS5600_ADDR = 0x36;
+const int BURN_PIN = PA1;  // Short to GND to BURN (Permanent)
+const int LED_PIN  = PC13; // Onboard LED
+
+// 12-bit values for 245 and 295 degrees
+const uint16_t START_VAL = 2787; 
+const uint16_t END_VAL   = 3356;   
+
+void writeReg(uint8_t reg, uint16_t val) {
+  Wire.beginTransmission(AS5600_ADDR);
+  Wire.write(reg); Wire.write(val >> 8); Wire.endTransmission();
+  Wire.beginTransmission(AS5600_ADDR);
+  Wire.write(reg + 1); Wire.write(val & 0xFF); Wire.endTransmission();
+}
+
+void flashLED(int times, int speed) {
+  for (int i = 0; i < times; i++) {
+    digitalWrite(LED_PIN, LOW);  // LED ON (Active Low)
+    delay(speed);
+    digitalWrite(LED_PIN, HIGH); // LED OFF
+    delay(speed);
+  }
+}
+
+void setup() {
+  Serial.begin(115200);
+  Wire.begin(); 
+  pinMode(BURN_PIN, INPUT_PULLUP);
+  pinMode(LED_PIN, OUTPUT);
+  digitalWrite(LED_PIN, HIGH); // Start OFF
+  
+  delay(2000); 
+  
+  // --- AUTOMATIC LOAD ---
+  writeReg(0x01, START_VAL);
+  writeReg(0x03, END_VAL);
+  
+  Serial.println("--- AS5600 Auto-Loader Active ---");
+  Serial.println("Range Loaded: 245-295 deg.");
+  Serial.println("Heartbeat: 1 pulse per second.");
+  Serial.println("Ready to BURN on PA1.");
+}
+
+void loop() {
+  static uint32_t lastPulse = 0;
+
+  // 1. Heartbeat Pulse (Once per second)
+  if (millis() - lastPulse >= 1000) {
+    digitalWrite(LED_PIN, LOW);  // ON
+    delay(100);                  // Short blip
+    digitalWrite(LED_PIN, HIGH); // OFF
+    lastPulse = millis();
+  }
+
+  // 2. Read Raw Angle (for Serial Monitor)
+  Wire.beginTransmission(AS5600_ADDR);
+  Wire.write(0x0E);
+  Wire.endTransmission();
+  Wire.requestFrom(AS5600_ADDR, 2);
+  uint16_t current = (Wire.read() << 8) | Wire.read();
+  
+  Serial.print("Current Raw: "); Serial.println(current);
+
+  // 3. TRIGGER: BURN (PA1)
+  if (digitalRead(BURN_PIN) == LOW) {
+    delay(500); // Debounce
+    Serial.println("\n!!! STARTING PERMANENT BURN !!!");
+    
+    Wire.beginTransmission(AS5600_ADDR);
+    Wire.write(0xFF); 
+    Wire.write(0x80); 
+    Wire.endTransmission();
+    
+    Serial.println(">>> BURN SUCCESSFUL.");
+    flashLED(3, 200); // 3 rapid flashes confirmation
+    
+    while(1); // Stop everything
+  }
+}
