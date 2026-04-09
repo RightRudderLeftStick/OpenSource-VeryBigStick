@@ -1,4 +1,4 @@
-# OPEN SOURCE VERY BIG STICK PROJECT 2025
+# OPEN SOURCE VERY BIG STICK PROJECT 2026
 A very large joystick gimbal for very big sticks!
 
 ![Screenshot](images/OSVBS_timelapse.gif)
