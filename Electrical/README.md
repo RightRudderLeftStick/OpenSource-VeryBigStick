@@ -40,7 +40,7 @@ I've created a script that can run on the bluepill before flashing freejoy that 
 
 Here is the pin out guide to setting up the ship programmer.
 
-BLUEPILL | 3.3v | GND | B6 | B7 | 
+BLUEPILL | 3.3v | GND | B10 | B11 | 
 --- | --- | --- | --- | --- |
 AS5600  | VCC | GND | SCL | SDA |
 
