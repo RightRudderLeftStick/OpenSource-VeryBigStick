@@ -1,5 +1,5 @@
 # OPEN SOURCE VERY BIG STICK PROJECT 2026
-A very large joystick gimbal for very big sticks!
+A very large joystick gimbal for very big sticks and now pedals too!
 
 ![Screenshot](images/OSVBS_timelapse.gif)
 
@@ -68,6 +68,9 @@ Freejoy is an excellent open source alternative to MMjoy2 and is great for creat
 Link to Freejoy [github.](https://github.com/FreeJoy-Team/FreeJoy)
 
 # Changelog
+
+### 1.4.1
+- Pedal stl  & step files now included!
 
 ### 1.4.0
 - Added A5600 sensor support to the gimbal. New file called *AS5600_Sensor_Mount_vr3.stl* added which can hold the white breakout board sensor.
