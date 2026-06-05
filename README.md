@@ -1,7 +1,7 @@
 # OPEN SOURCE VERY BIG STICK PROJECT 2026
 A very large joystick gimbal for very big sticks and now pedals too!
 
-![Screenshot](images/OS_VBS_MKII_PedalsMockup v1.png)
+![Screenshot](images/OS_VBS_MKII.png)
 
 This totally open source gimbal is designed for end users to either connect existing Thrustmaster compatible grips or attach any custom grip directly to the base. It supports very high spring forces allowing for very realistic feeling flight controls.
 
