@@ -69,6 +69,9 @@ Link to Freejoy [github.](https://github.com/FreeJoy-Team/FreeJoy)
 
 # Changelog
 
+### 1.4.2
+- Added a version 2 of the AS5600 burner script
+
 ### 1.4.1
 - Pedal stl  & step files now included!
 
